@@ -1,0 +1,1 @@
+streamlit run "C:\Users\ekans\Desktop\My Projects\Crop_Prediction\deployment.py"
